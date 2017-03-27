@@ -1,6 +1,8 @@
 
 # Stretchy headers
 Stretchy headers with blur using tableviews
+
+![screenshot](https://raw.githubusercontent.com/rhnsharma999/stretchyHeaderWithBlur-swift-3-/master/screens.gif)
 ## Usage
 download->build->run
 this is a `swift 3.0` project
